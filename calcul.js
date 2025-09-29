@@ -2,7 +2,7 @@ const calculateSum = (FirstNumber, SecondNumber) => FirstNumber + SecondNumber;
 const calculateSubstract = (FirstNumber, SecondNumber) => FirstNumber - SecondNumber;
 
 const calculateProduct = (FirstNumber, SecondNumber) => FirstNumber * SecondNumber;
-const calculateDivision = (FirstNumber,SecondNumber)=> FirstNumber /SecondNumber;
+const calculateDivision = (FirstNumber, SecondNumber) => FirstNumber / SecondNumber;
 console.log(calculateProduct(5, 10));
 console.log(calculateSum(10, 30));
 
